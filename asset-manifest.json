@@ -1,16 +1,16 @@
 {
-  "main.css": "static/css/main.679233d2.css",
-  "main.css.map": "static/css/main.679233d2.css.map",
-  "main.js": "static/js/main.005dee8e.js",
-  "main.js.map": "static/js/main.005dee8e.js.map",
-  "static/media/Brakeout.jpg": "static/media/Brakeout.5baea2dd.jpg",
+  "main.css": "static/css/main.269af5ef.css",
+  "main.css.map": "static/css/main.269af5ef.css.map",
+  "main.js": "static/js/main.5270396b.js",
+  "main.js.map": "static/js/main.5270396b.js.map",
+  "static/media/Brakeout.png": "static/media/Brakeout.7b033afe.png",
   "static/media/ImageGallery.png": "static/media/ImageGallery.590ca717.png",
   "static/media/Pong.png": "static/media/Pong.2e648a17.png",
   "static/media/SpaceWar.jpg": "static/media/SpaceWar.d41be1b9.jpg",
   "static/media/TicTac.png": "static/media/TicTac.b6a1c37d.png",
   "static/media/exit.svg": "static/media/exit.664329db.svg",
-  "static/media/github.icon.svg": "static/media/github.icon.b2493d20.svg",
+  "static/media/github.icon.svg": "static/media/github.icon.8e265b3a.svg",
   "static/media/header-background.jpg": "static/media/header-background.775c049d.jpg",
-  "static/media/linkedin.icon.svg": "static/media/linkedin.icon.42993c2c.svg",
+  "static/media/linkedin.icon.svg": "static/media/linkedin.icon.680e75b5.svg",
   "static/media/projects-bg.jpg": "static/media/projects-bg.7143a49f.jpg"
 }
